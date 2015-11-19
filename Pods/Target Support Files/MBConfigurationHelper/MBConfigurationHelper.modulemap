@@ -1,0 +1,6 @@
+framework module MBConfigurationHelper {
+  umbrella header "MBConfigurationHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

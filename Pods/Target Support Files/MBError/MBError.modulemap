@@ -1,0 +1,6 @@
+framework module MBError {
+  umbrella header "MBError-umbrella.h"
+
+  export *
+  module * { export * }
+}
